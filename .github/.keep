@@ -4,11 +4,29 @@
     <meta charset="utf-8">
     <title>MY first Website</title>
   </head>
+  <h1> Dont <strong>strain </strong> your <em>eyes</em></h1>
   <body>My First Website
-    
+    <p>
+      here is my paragraph filled with spam bnfjhbvhjbehjfvbjhbfvjhebhjvbwehjhfb fhjerbfjh
+    </p>
+    <p>nnfjktenwfjknrejfnjewjhbhjfb hjerbfbjhfbhjerwb fjh</p>
+    <!-- Please ignore the spam-->
   </body>
-
-
+  </body>
+  <p>check out this unordered list</p>
+  <ul>
+    <li>first on the list</li>
+    <li>second on the list</li>
+    <li>third on the list</li>
+  </ul>
+  <p> Here is a list of the top 5 places i want to go</p>
+  <ol>
+    <li>Turkey</li>
+    <li>Italy</li>
+    <li>Australia</li>
+    <li>Japan</li>
+    <li>China</li>
+  </ol>
 
 
 </html>
